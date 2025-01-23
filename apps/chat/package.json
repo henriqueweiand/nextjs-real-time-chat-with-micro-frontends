@@ -1,0 +1,42 @@
+{
+  "name": "components",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.17",
+    "@chakra-ui/react": "^1",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@module-federation/nextjs-mf": "^6.0.7",
+    "@next/font": "13.1.6",
+    "@types/node": "18.11.19",
+    "@types/react": "18.0.27",
+    "@types/react-dom": "18.0.10",
+    "eslint": "8.33.0",
+    "eslint-config-next": "13.1.6",
+    "framer-motion": "^6",
+    "next": "13.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.8.0",
+    "socket.io-client": "^4.8.1",
+    "theme": "*",
+    "typescript": "4.9.5",
+    "ui": "*"
+  },
+  "devDependencies": {
+    "eslint-config-custom": "*",
+    "html-webpack-plugin": "^5.5.0",
+    "tsconfig": "*",
+    "webpack": "^5.76.2",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-middleware": "^6.0.1",
+    "webpack-dev-server": "^4.13.0"
+  }
+}
