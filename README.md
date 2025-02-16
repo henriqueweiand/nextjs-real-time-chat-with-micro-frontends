@@ -1,7 +1,9 @@
 # microfrontends-as-lego-example
 
 ## Project post
-Docs: https://medium.com/@henrique.weiand/building-a-system-like-lego-with-react-and-micro-frontends-e23a6e90eb46
+
+Real-time chat blog post: https://medium.com/nestjs-ninja/real-time-chat-with-nestjs-and-socket-io-642d10044201
+Micro frontends blog post: https://medium.com/@henrique.weiand/building-a-system-like-lego-with-react-and-micro-frontends-e23a6e90eb46
 
 ## Project technologies
 - NestJS 13;
